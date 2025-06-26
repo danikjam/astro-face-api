@@ -1,2 +1,4 @@
 flask
 deepface
+opencv-python-headless
+--extra-index-url https://pypi.org/simple/
